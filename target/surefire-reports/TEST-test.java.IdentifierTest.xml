@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="test.java.IdentifierTest" time="0.089" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="test.java.IdentifierTest" time="0.09" tests="6" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="23"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/testes/target/test-classes:/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/testes/target/classes:/home/raquel/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/home/raquel/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.class.path" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/test_java/target/test-classes:/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/test_java/target/classes:/home/raquel/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/home/raquel/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://adoptium.net/"/>
@@ -12,9 +12,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BR"/>
     <property name="sun.boot.library.path" value="/home/raquel/.config/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/latest/lib"/>
-    <property name="sun.java.command" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/testes/target/surefire/surefirebooter-20241104185646637_3.jar /home/raquel/Documentos/MBA - Engenharia de software/modulo 3/testes/target/surefire 2024-11-04T18-56-46_534-jvmRun1 surefire-20241104185646637_1tmp surefire_0-20241104185646637_2tmp"/>
+    <property name="sun.java.command" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/test_java/target/surefire/surefirebooter-20241104223502370_3.jar /home/raquel/Documentos/MBA - Engenharia de software/modulo 3/test_java/target/surefire 2024-11-04T22-35-02_287-jvmRun1 surefire-20241104223502370_1tmp surefire_0-20241104223502370_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/testes/target/test-classes:/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/testes/target/classes:/home/raquel/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/home/raquel/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="surefire.test.class.path" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/test_java/target/test-classes:/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/test_java/target/classes:/home/raquel/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/home/raquel/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/raquel"/>
     <property name="user.language" value="pt"/>
@@ -22,12 +22,12 @@
     <property name="java.version.date" value="2024-10-15"/>
     <property name="java.home" value="/home/raquel/.config/Code/User/globalStorage/pleiades.java-extension-pack-jdk/java/latest"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/testes"/>
+    <property name="basedir" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/test_java"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/testes/target/surefire/surefirebooter-20241104185646637_3.jar"/>
+    <property name="surefire.real.class.path" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/test_java/target/surefire/surefirebooter-20241104223502370_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="23.0.1+11"/>
     <property name="user.name" value="raquel"/>
@@ -42,7 +42,7 @@
     <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
     <property name="java.io.tmpdir" value="/tmp"/>
     <property name="java.version" value="23.0.1"/>
-    <property name="user.dir" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/testes"/>
+    <property name="user.dir" value="/home/raquel/Documentos/MBA - Engenharia de software/modulo 3/test_java"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="native.encoding" value="UTF-8"/>
@@ -54,7 +54,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="67.0"/>
   </properties>
-  <testcase name="testValidIdentifier_LengthOne" classname="test.java.IdentifierTest" time="0.006"/>
+  <testcase name="testValidIdentifier_LengthOne" classname="test.java.IdentifierTest" time="0.007"/>
   <testcase name="testInvalidIdentifier_InvalidInnerChar" classname="test.java.IdentifierTest" time="0.0"/>
   <testcase name="testInvalidIdentifier_InvalidFirstChar" classname="test.java.IdentifierTest" time="0.0"/>
   <testcase name="testValid_f" classname="test.java.IdentifierTest" time="0.0"/>
